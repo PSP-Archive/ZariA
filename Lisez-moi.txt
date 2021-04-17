@@ -1,0 +1,25 @@
+ZariA - Idée par Roomain, code par Roomain.
+---------------------------------------------
+
+Bon, par manque de temps/motivation, j'arrête le développement de ZariA c'est pourquoi je diffuse les sources.
+
+C'est le gros bordel dedans, je ne me suis pas bien organisé dans le développement, voilà ce que ça donne.
+
+Librairies nécessaires :
+-------------------------
+
+-libpng
+-zlib
+-libmad
+-sdl
+-sdl music
+
+C'est à peu près tout je pense.
+
+J'espère que vous en ferez bon usage ; le générateur de level est inclus ; je ne retrouve plus la source mais il est tout simple ^^
+
+J'ai passé un temps monstrueux pour ce projet, j'aimerais que le travail soit respecté ;) Merci !
+
+VIVE LE LIBRE !
+
+Roomain

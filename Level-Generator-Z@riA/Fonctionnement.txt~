@@ -1,0 +1,10 @@
+Ceci est le générateur de niveaux pour ZariA.
+
+Codé en C pour Windows avec la SDL.
+
+Utilisation:
+-------------
+
+Bougez le block à positionner avec les flêches directionnelles appuyez sur ESPACe pour le placer et appuyez sur ENTREE pour sauvegarder le niveau.
+
+Un fichier .ZlV est généré dans le dossier /lvl/ ; il vous suffit de copier ce code au début du code C de Zaria.
